@@ -6,6 +6,8 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akifgurkan" alt="akifgurkan" /></a> </p>
 
 - 🔭 I’m currently working on [Cucumber](https://github.com/akifgurkan/akifgurkan-Team116_Cucumber_Projem)
+  
+- <h2><a href="https://github.com/bulutluoz/Free-Java-Dersleri" >🧿 Free Java Hazirlik Dersleri </a> </h2>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
