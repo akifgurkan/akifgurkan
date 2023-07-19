@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akifgurkan" alt="akifgurkan" /></a> </p>
 
-- <h3><a href="https://github.com/akifgurkan/Team116_Java_Projem" > 💰 Java_Projem </a> 🔭 </h3> 
-- <h3><a href="https://github.com/akifgurkan/Team116_Selenium_Projem" > 💰 Selenium_Projem 🔭</a> </h3>
-- <h3><a href="https://github.com/akifgurkan/akifgurkan-Team116_Cucumber_Projem" >💰 Cucumber_Projem 🔭</a> </h3>
+- <h3><a href="https://github.com/akifgurkan/Team116_Java_Projem" > 💰 Java Projem </a> 🔭 </h3> 
+- <h3><a href="https://github.com/akifgurkan/Team116_Selenium_Projem" > 💰 Selenium Projem 🔭</a> </h3>
+- <h3><a href="https://github.com/akifgurkan/akifgurkan-Team116_Cucumber_Projem" >💰 Cucumber Projem 🔭</a> </h3>
 
 
 
