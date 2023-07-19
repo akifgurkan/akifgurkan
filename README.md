@@ -8,12 +8,10 @@
 - <h3><a href="https://github.com/akifgurkan/Team116_Java_Projem" > 💰 Java_Projem </a> 🔭 </h3> 
 - <h3><a href="https://github.com/akifgurkan/Team116_Selenium_Projem" > 💰 Selenium_Projem 🔭</a> </h3>
 - <h3><a href="https://github.com/akifgurkan/akifgurkan-Team116_Cucumber_Projem" >🧿 Cucumber_Projem 🔭</a> </h3>
-![image](https://github.com/akifgurkan/akifgurkan/assets/123330460/ab2b3dc3-8f29-40a8-bd74-65779903167e)
-![image](https://github.com/akifgurkan/akifgurkan/assets/123330460/5e9b0303-e557-4fda-9b54-c264f2cedfd6)
 
 
 
-  💰
+  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/akifgurkan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akifgurkan" height="30" width="40" /></a>
