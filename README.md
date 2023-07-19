@@ -9,6 +9,8 @@
 - <h3><a href="https://github.com/akifgurkan/Team116_Selenium_Projem" > 💰 Selenium_Projem 🔭</a> </h3>
 - <h3><a href="https://github.com/akifgurkan/akifgurkan-Team116_Cucumber_Projem" >🧿 Cucumber_Projem 🔭</a> </h3>
 ![image](https://github.com/akifgurkan/akifgurkan/assets/123330460/ab2b3dc3-8f29-40a8-bd74-65779903167e)
+![image](https://github.com/akifgurkan/akifgurkan/assets/123330460/5e9b0303-e557-4fda-9b54-c264f2cedfd6)
+
 
 
   💰
