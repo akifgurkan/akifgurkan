@@ -5,9 +5,10 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akifgurkan" alt="akifgurkan" /></a> </p>
 
-- 🔭 I’m currently working on [Cucumber](https://github.com/akifgurkan/akifgurkan-Team116_Cucumber_Projem)
 - <h3><a href="https://github.com/akifgurkan/Team116_Java_Projem" >🧿 Java_Projem 🔭</a> </h3>
-- <h2><a href="https://github.com/akifgurkan/Team116_Selenium_Projem" >🧿 Selenium_Projem 🔭</a> </h2>
+- <h3><a href="https://github.com/akifgurkan/Team116_Selenium_Projem" >🧿 Selenium_Projem 🔭</a> </h3>
+- <h3><a href="https://github.com/akifgurkan/akifgurkan-Team116_Cucumber_Projem" >🧿 Cucumber_Projem 🔭</a> </h3>
+
 
  
 <h3 align="left">Connect with me:</h3>
