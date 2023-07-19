@@ -3,6 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akifgurkan&label=Profile%20views&color=0e75b6&style=flat" alt="akifgurkan" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akifgurkan" alt="akifgurkan" /></a> </p>
 
 - <h3><a href="https://github.com/akifgurkan/Team116_Java_Projem" > 💰 Java Projem </a> 🔭 </h3> 
 - <h3><a href="https://github.com/akifgurkan/Team116_Selenium_Projem" > 💰 Selenium Projem 🔭</a> </h3>
