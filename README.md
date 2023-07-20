@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Akif GÜRKAN</h1>
-<h3 align="center">Software Test Engineer || QA</h3>
+<h3 align="center">Software QA Test Engineer </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akifgurkan&label=Profile%20views&color=0e75b6&style=flat" alt="akifgurkan" /> </p>
 
