@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Akif GÜRKAN</h1>
 <h3 align="center">Software QA Test Engineer </h3>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+https://github-profile-trophy.vercel.app/?username=ryo-ma&column=3&margin-w=15&margin-h=15
 
 
 
