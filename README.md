@@ -27,3 +27,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akifgurkan&" alt="akifgurkan" /></p>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=akifgurkan&label=Profile%20views&color=0e75b6&style=flat" alt="akifgurkan" /> </p>
+
