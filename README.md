@@ -1,11 +1,6 @@
 <h1 align="center">Hi 👋, I'm Akif GÜRKAN</h1>
 <h3 align="center">Software QA Test Engineer </h3>
 
-<picture>
- <source media="(prefers-color-scheme: dark)" srcset="YOUR-DARKMODE-IMAGE">
- <source media="(prefers-color-scheme: light)" srcset="YOUR-LIGHTMODE-IMAGE">
- <img alt="YOUR-ALT-TEXT" src="https://appmaster.io/cdn-cgi/image/width=1024,quality=83,format=auto/api/_files/WhQMQ8okJeSgAWLy36Skhd/download/">
-</picture>
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akifgurkan" alt="akifgurkan" /></a> </p>
