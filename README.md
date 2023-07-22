@@ -1,12 +1,13 @@
-<h1 align="center">Hi 👋, I'm Akif GÜRKAN</h1>     <h3 align="center">Software QA Test Engineer </h3>
+<h1 align="center">Hi 👋, I'm Akif GÜRKAN</h1>    
+ <h3 align="center">Software QA Test Engineer </h3>
 
-
-
+<center>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://media.licdn.com/dms/image/D4D16AQH8z51_Zqw_mg/profile-displaybackgroundimage-shrink_350_1400/0/1682370219817?e=1695254400&v=beta&t=X4coL1X-It7UahI-yL5vFdCrH_LZpoCu0P2XFVa-7fI">
   <source media="(prefers-color-scheme: light)" srcset="https://media.licdn.com/dms/image/D4D16AQH8z51_Zqw_mg/profile-displaybackgroundimage-shrink_350_1400/0/1682370219817?e=1695254400&v=beta&t=X4coL1X-It7UahI-yL5vFdCrH_LZpoCu0P2XFVa-7fI">
   <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://media.licdn.com/dms/image/D4D16AQH8z51_Zqw_mg/profile-displaybackgroundimage-shrink_350_1400/0/1682370219817?e=1695254400&v=beta&t=X4coL1X-It7UahI-yL5vFdCrH_LZpoCu0P2XFVa-7fI">
 </picture>
+</center>
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akifgurkan" alt="akifgurkan" /></a> </p>
