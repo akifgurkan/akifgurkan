@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Akif GÜRKAN</h1>
-<h3 align="center">Software QA Test Engineer </h3>
+<h3 >Software QA Test Engineer </h3>
 
 
 <picture>
