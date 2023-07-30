@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Akif GÜRKAN</h1>    
  <h3 align="center">Software QA Test Engineer <br>
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=01eaea&size=24&width=500&lines=Hi+everybody+I'm+GOKHAN+👋;QA+Automation+Engineer;Software+Test+Automation+Engineer;Greeting+From+Turkey;Nice+to+meet+you...)](https://git.io/typing-svg)
+
  
  <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://media.licdn.com/dms/image/D4D16AQH8z51_Zqw_mg/profile-displaybackgroundimage-shrink_350_1400/0/1682370219817?e=1695254400&v=beta&t=X4coL1X-It7UahI-yL5vFdCrH_LZpoCu0P2XFVa-7fI">
