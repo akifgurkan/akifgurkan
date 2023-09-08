@@ -8,6 +8,7 @@
 
  
  <picture>
+  
   <source media="(prefers-color-scheme: dark)" srcset="https://media.licdn.com/dms/image/D4D16AQH8z51_Zqw_mg/profile-displaybackgroundimage-shrink_350_1400/0/1682370219817?e=1695254400&v=beta&t=X4coL1X-It7UahI-yL5vFdCrH_LZpoCu0P2XFVa-7fI">
   <source media="(prefers-color-scheme: light)" srcset="https://media.licdn.com/dms/image/D4D16AQH8z51_Zqw_mg/profile-displaybackgroundimage-shrink_350_1400/0/1682370219817?e=1695254400&v=beta&t=X4coL1X-It7UahI-yL5vFdCrH_LZpoCu0P2XFVa-7fI">
   <img alt="QA kıaltmasının açıklamasını göseteren resim" src="https://media.licdn.com/dms/image/D4D16AQH8z51_Zqw_mg/profile-displaybackgroundimage-shrink_350_1400/0/1682370219817?e=1695254400&v=beta&t=X4coL1X-It7UahI-yL5vFdCrH_LZpoCu0P2XFVa-7fI">
@@ -30,6 +31,7 @@
 
   
 <h3 align="left">Connect with me.:</h3>
+
 <p align="left">
 <a href="https://linkedin.com/in/akifgurkan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akifgurkan" height="30" width="40" /></a>
 <a href="https://medium.com/@akifgurkan15" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@akifgurkan15" height="30" width="40" /></a>
