@@ -4,8 +4,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=01eaea&size=24&width=500&lines=Herkese+Merhaba+Ben+Akif+GÜRKAN+👋;Software+QA+Test+Engineer;SoftWare+Test+Automation+Engineer;)](https://git.io/typing-svg)
 
-
-
  
  <picture>
   
