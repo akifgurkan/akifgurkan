@@ -43,8 +43,14 @@
 <a href="https://code.visualstudio.com/" rel="nofollow"><img width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" style="max-width: 100%;"></a>
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg"><img src="https://github.com/devicons/devicon/raw/master/icons/jira/jira-original-wordmark.svg" title="Jira" alt="Jira" width="40" height="40" style="max-width: 100%;"></a>
 <a href="https://postman.com" rel="nofollow"> <img src="https://camo.githubusercontent.com/93b32389bf746009ca2370de7fe06c3b5146f4c99d99df65994f9ced0ba41685/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f676574706f73746d616e2f676574706f73746d616e2d69636f6e2e737667" alt="postman" width="40" height="40" data-canonical-src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" style="max-width: 100%;"> </a></p>
-<p dir="auto"><a href="https://github.com/berkansonmezay"><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/github/github.png" style="max-width: 100%;"></a></p>
-<p dir="auto"> <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/bf22b28c6da5365d04c82bf6b36e99a050d7d28ad8541f912aecc30fa83865b6/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d66726b6e6b63722673686f775f69636f6e733d74727565266c6f63616c653d656e"><img align="center" src="https://camo.githubusercontent.com/bf22b28c6da5365d04c82bf6b36e99a050d7d28ad8541f912aecc30fa83865b6/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d66726b6e6b63722673686f775f69636f6e733d74727565266c6f63616c653d656e" alt="frknkcr" data-canonical-src="https://github-readme-stats.vercel.app/api?username=frknkcr&amp;show_icons=true&amp;locale=en" style="max-width: 100%;"></a></p>
+
+
+
+
+
+
+
+
 <p dir="auto"><a target="_blank" rel="noopener noreferrer" href="https://github.com/BEPb/BEPb/raw/output/github-contribution-grid-snake.svg"><img src="https://github.com/BEPb/BEPb/raw/output/github-contribution-grid-snake.svg" alt="" style="max-width: 100%;"></a></p>
 
 
