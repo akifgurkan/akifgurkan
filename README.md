@@ -3,9 +3,7 @@
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=01eaea&size=24&width=500&lines=Herkese+Merhaba+Ben+Akif+GÜRKAN+👋;Software+QA+Test+Engineer;SoftWare+Test+Automation+Engineer;)](https://git.io/typing-svg)
- 
- </h3>
-
+  </h3>
 
 <h3 align="left" tabindex="-1" id="user-content-languages-and-tools" dir="auto"><a class="heading-link" href="#languages-and-tools">Languages and Tools:<svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></h3>
 <p dir="auto"><a href="https://www.java.com/" rel="nofollow"><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png" style="max-width: 100%;"></a>
@@ -39,7 +37,6 @@
 <a href="https://linkedin.com/in/akifgurkan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akifgurkan" height="30" width="40" /></a>
 <a href="https://medium.com/@akifgurkan15" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@akifgurkan15" height="30" width="40" /></a>
 </p>
-
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akifgurkan&show_icons=true&locale=en&layout=compact" alt="akifgurkan" /></p>
