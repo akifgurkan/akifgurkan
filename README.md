@@ -2,7 +2,7 @@
  <h3 align="center">Software QA Test Engineer <br>
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=01eaea&size=24&width=500&lines=Herkese+Merhaba...+👋Ben+Akif+GÜRKAN+👋;Software+QA+Test+Engineer;SoftWare+Test+Automation+Engineer;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=01eaea&size=24&width=500&lines=Herkese+Merhaba.+👋Ben+Akif+GÜRKAN+👋;Software+QA+Test+Engineer;SoftWare+Test+Automation+Engineer;)](https://git.io/typing-svg)
   </h3>
 
 <h3 align="left" tabindex="-1" id="user-content-languages-and-tools" dir="auto"><a class="heading-link" href="#languages-and-tools">Languages and Tools:<svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></h3>
@@ -21,7 +21,7 @@
 <a href="https://postman.com" rel="nofollow"> <img src="https://camo.githubusercontent.com/93b32389bf746009ca2370de7fe06c3b5146f4c99d99df65994f9ced0ba41685/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f676574706f73746d616e2f676574706f73746d616e2d69636f6e2e737667" alt="postman" width="40" height="40" data-canonical-src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" style="max-width: 100%;"> </a></p>
 
 
-- <h3><a href="https://github.com/akifgurkan/akifgurkan-Team116_Cucumber_Projem" >🏆 Cucumber Projem 🔭</a> </h3>
+- <h2><a href="https://github.com/akifgurkan/akifgurkan-Team116_Cucumber_Projem" >🏆 Cucumber Projem 🔭</a> </h2>
 
 
 
