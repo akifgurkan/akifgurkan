@@ -31,7 +31,9 @@
 
 
 <h3 align="left"> 📜Certificates:</h3>
-✅ ISTQB Foundation LevelISTQB Foundation Level
+✅ ISTQB Foundation LevelISTQB Foundation Level <br>
+✅ API ve API TestiAPI ve API Testi - BTK Akademi
+
 
 
 
