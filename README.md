@@ -31,8 +31,9 @@
 
 
 <h3 align="left"> 📜Certificates:</h3>
-ISTQB Foundation LevelISTQB Foundation Level
-ISTQB® - International Software Testing Qualifications Board
+✅ ISTQB Foundation LevelISTQB Foundation Level
+
+
 
 <h3 align="left">Connect With Me.:</h3>
 <p align="left">
