@@ -33,7 +33,7 @@
 <h3 align="left"> 📜Certificates:</h3>
 ✅ ISTQB Foundation Level- ISTQB® International Software Testing Qualifications Board
  <br>
-✅ API ve API TestiAPI ve API Testi - BTK Akademi <br>
+✅ API ve API Testi API ve API Testi - BTK Akademi <br>
 ✅ Linux Giriş / NDG Linux UnhatchedLinux Giriş / NDG Linux Unhatched -Cisco Networking Academy <br>
 ✅ Introduction to Cybersecurity -Cisco <br>
 
