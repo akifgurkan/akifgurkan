@@ -35,7 +35,7 @@
  <br>
 ✅ API ve API Testi - BTK Akademi <br>
 ✅ Linux Giriş / NDG Linux UnhatchedLinux Giriş / NDG Linux Unhatched - Cisco Networking Academy <br>
-✅ Introduction to Cybersecurity -Cisco <br>
+✅ Introduction to Cybersecurity - Cisco <br>
 
 
 
