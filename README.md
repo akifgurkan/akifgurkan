@@ -36,7 +36,7 @@
 ✅ ISTQB Foundation Level-ISTQB® International Software Testing Qualifications Board
  <br>
 ✅ API ve API Testi - BTK Akademi <br>
-✅ Linux Giriş / NDG Linux UnhatchedLinux Giriş / NDG Linux Unhatched - Cisco Networking Academy <br>
+✅ Linuxa Giriş / NDG Linux UnhatchedLinux Giriş / NDG Linux Unhatched - Cisco Networking Academy <br>
 ✅ Introduction to Cybersecurity - Cisco <br>
 
 
@@ -44,7 +44,7 @@
 
 
 
-<h3 align="left">Connect With Me :</h3>
+<h3 align="left">Connect "With Me" :</h3>
 <p align="left">
 <a href="https://linkedin.com/in/akifgurkan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akifgurkan" height="30" width="40" /></a>
 <a href="https://medium.com/@akifgurkan15" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@akifgurkan15" height="30" width="40" /></a>
