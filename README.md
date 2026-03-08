@@ -14,11 +14,10 @@ Software Quality Assurance, Manual Testing ve Test Automation.
 # 👨‍💻 Hakkımda
 
 - Software QA / Test Engineer  
-- Web ve API test süreçlerinde deneyim  
-- Manual ve Automation Testing  
-- Java, Selenium, TestNG, Cucumber ile otomasyon geliştirme  
+- Web, UI ve API test süreçlerinde deneyim  
+- Manual Testing ve Test Automation  
+- Java + Selenium + TestNG + Cucumber ile otomasyon geliştirme  
 - API testleri (Postman, Swagger)  
-
 ---
 
 # 🛠️ Technologies & Tools
