@@ -1,4 +1,4 @@
-<h1 align="center">Hi, 👋 I'm Akif Gürkan</h1>
+<h1 align="center">Hi, 👋 I'm  Gürkan</h1>
 <h3 align="center">Software QA / Test Engineer</h3>
 
 <p align="center">
