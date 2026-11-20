@@ -1,5 +1,5 @@
 <h1 align="center">Hi, 👋 I'm Akif Gürkan</h1>
-<h3 align="center">Software QA / Test Engineer</h3>
+<h3 align="center">Software QA/Test Engineer</h3>
 
 <p align="center">
 Software Quality Assurance, Manual Testing ve Test Automation.
